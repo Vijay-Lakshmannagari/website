@@ -4,7 +4,7 @@ env:
   variables:
     AWS_ACCOUNT_ID: "405220614786"
     REPOSITORY_NAME: "website"
-    CONTAINER_NAME: "website"
+    CONTAINER_NAME: "Main"
     CLUSTER_NAME: "website"
     AWS_DEFAULT_REGION: "ap-south-1"
     IMAGE_TAG: "v1"
